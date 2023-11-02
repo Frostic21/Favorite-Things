@@ -50,3 +50,12 @@ nav li:hover .dropdown-content{
 .dropdown-content ul{
     flex-direction: column;
 }
+.h4{
+    font-family: sans-serif;
+}
+a{
+    font-family: sans-serif;
+}
+li{
+    font-family: monospace;
+}
